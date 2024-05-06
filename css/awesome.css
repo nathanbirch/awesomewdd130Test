@@ -1,0 +1,11 @@
+.parent {
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center; /* Centers vertically */
+  height: 100vh; /* Full viewport height, or adjust as needed */
+}
+
+.awesomeImage {
+  width: 100px; /* Set width to 100px */
+  height: 80px; /* Set height to 80px */
+}
